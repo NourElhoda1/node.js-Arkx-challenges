@@ -1,0 +1,14 @@
+{
+  "name": "day-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weatherApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azlag Nour El Hoda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

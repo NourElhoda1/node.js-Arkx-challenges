@@ -1,0 +1,25 @@
+{
+  "name": "day-26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NourElhoda1/-express.js.git"
+  },
+  "keywords": [
+    "Metalmido2003"
+  ],
+  "author": "NourElhoda1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NourElhoda1/-express.js/issues"
+  },
+  "homepage": "https://github.com/NourElhoda1/-express.js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
